@@ -1,0 +1,193 @@
+[
+    {
+        "company_name": "BDE-Engineering",
+        "location": "Beverungen - DE",
+        "description": "... DieBDEEngineering ist ein innovatives Unternehmen im Bereich Fertigungsmanagementsysteme und bietet Lösungen ...",
+        "stand": "Halle 15, Stand A18, (7)",
+        "product_link": "/aussteller/bde-engineering/N1574225",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "AMM Systems",
+        "location": "Johannesburg - ZA",
+        "description": "AM Squared Systems bietet Echtzeit-Datenmanagementlösungen für die Energie-, Bergbau- und Fertigungsindustrien. Unsere MiX-Plattform integriert ...",
+        "stand": "Halle 16, Stand E11",
+        "product_link": "/aussteller/amm-systems/N1565926",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "Augmentir",
+        "location": "Horsham, PA 19044 - USA",
+        "description": "Augmentir™ ist der weltweit einzige Anbieter von KI-basierter Connected Worker Software. Durch die Vernetzung von Arbeiterinnen und Arbeitern ermöglicht ...",
+        "stand": "Halle 17, Stand F25",
+        "product_link": "/aussteller/augmentir/N1574508",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "Crosser",
+        "location": "Stockholm - SE",
+        "description": "Wir entwerfen und entwickeln eine Low-Code-Software Plattform für Streaming Analytics, Automatisierung und Integration, die in hybriden Architekturen ...",
+        "stand": "Halle 17, Stand H15/1",
+        "product_link": "/aussteller/crosser/N1476208",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "engomo",
+        "location": "Albstadt - DE",
+        "description": "engomo ist die Low-Code-Digitalisierungsplattform für Unternehmen, die komplexe, integrierte und individuelle Prozesse ohne Programmierung in Enterprise ...",
+        "stand": "Halle 15, Stand G48",
+        "product_link": "/aussteller/engomo/N1510428",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "Inalp",
+        "location": "Niederwangen bei Bern - CH",
+        "description": "Inalp ist ein führendes schweizerisches Technologieunternehmen, das sich auf die Entwicklung innovativer Softwarelösungen spezialisiert hat. \nMit einem ...",
+        "stand": "Halle 16, Stand D11",
+        "product_link": "/aussteller/inalp/N1541590",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "INFORM",
+        "location": "Aachen - DE",
+        "description": "INFORM entwickelt Software zur Optimierung von Geschäftsprozessen mittels künstlicher Intelligenz (KI) und fortschrittlicher Mathematik des Operations ...",
+        "stand": "Halle 15, Stand H59",
+        "product_link": "/aussteller/inform/N1476815",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "iTAC Software",
+        "location": "Montabaur - DE",
+        "description": "Die iTAC Software AG, ein eigenständiges Unternehmen des Maschinen- und Anlagenbaukonzerns Dürr, bietet internetfähige Informations- und ...",
+        "stand": "Halle 15, Stand F14",
+        "product_link": "/aussteller/itac-software/N1477169",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "ORBIS",
+        "location": "Saarbrücken - DE",
+        "description": "ORBIS begleitet mittelständische Unternehmen sowie internationale Konzerne bei der Digitalisierung ihrer Geschäftsprozesse. Das tiefe Prozess-Know-how und ...",
+        "stand": "Halle 15, Stand C38",
+        "product_link": "/aussteller/orbis/N1566243",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "Parsetu",
+        "location": "Filderstadt - DE",
+        "description": "Parsetu GmbH ist mit seinen innovativen Softwarelösungen einer der führenden Anbieter im Bereich der digitalen Transformation von Fertigungsprozessen. ...",
+        "stand": "Halle 2, Stand C56",
+        "product_link": "/aussteller/parsetu/N1582320",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "PSI Software",
+        "location": "Berlin - DE",
+        "description": "Der PSI-Konzern präsentiert sein umfassendes Softwareportfolio für Industrieunternehmen und Versorger. Unter dem Motto „Transform your business with ...",
+        "stand": "Halle 17, Stand G24",
+        "product_link": "/aussteller/psi-software/N1509685",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "accevo",
+        "location": "Krakow - PL",
+        "description": "Accevo Systems (vormals ANT Solutions) bietet spezialisierte Softwarelösungen für Produktionsbetriebe, insbesondere zugeschnitten auf Branchen wie Pharma, ...",
+        "stand": "Halle 15, Stand F14",
+        "product_link": "/aussteller/accevo/N1487359",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "evon",
+        "location": "Sankt Ruprecht an der Raab - AT",
+        "description": "„Wir steigern Ihren Erfolg – weil wir für Digitalisierung brennen.“ \n\nDie evon GmbH wurde 2009 gegründet und bietet innovative und benutzerfreundliche ...",
+        "stand": "Halle 9, Stand F30",
+        "product_link": "/aussteller/evon/N1577147",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "eXXcellent solutions",
+        "location": "Ulm - DE",
+        "description": "eXXcellent solutions wurde im Jahr 2001 gegründet, um Unternehmen zu einer für ihre Situation und ihre Zwecke optimalen Softwarelösung zu verhelfen. ...",
+        "stand": "Halle 17, Stand H23",
+        "product_link": "/aussteller/exxcellent-solutions/N1547968",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "Flagstone",
+        "location": "Harelbeke - BE",
+        "description": "Flagstone ist ein Nischenanbieter, der sich darauf konzentriert, die Rentabilität in der Fertigung zu maximieren. Mit tiefgehender Expertise nutzen wir ...",
+        "stand": "Halle 8, Stand D07",
+        "product_link": "/aussteller/flagstone/N1579697",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "Forcam Enisco",
+        "location": "Böblingen - DE",
+        "description": "FORCAM und ENISCO sind Pioniere der Industrie 4.0: Als Unternehmensgruppe unter dem Dach der FORCAM ENISCO GmbH unterstützen sie mittelständische ...",
+        "stand": "Halle 15, Stand C19",
+        "product_link": "/aussteller/forcam-enisco/N1546818",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "Industrie Informatik",
+        "location": "Linz - AT",
+        "description": "Industrie Informatik GmbH zählt zu einen der führenden Anbieter im Bereich Produktionssoftware MES (Manufacturing Execution Systems). Mit mehr als 130 ...",
+        "stand": "Halle 15, Stand F28",
+        "product_link": "/aussteller/industrie-informatik/N1477347",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "LEAD Digitalisierung",
+        "location": "Winterbach - DE",
+        "description": "Die LEAD Digitalisierung bietet schlüsselfertige Softwarelösungen, die Produktionen und Maschinenbauer bei der digitalen Transformation unterstützen. Mit ...",
+        "stand": "Halle 15, Stand A06",
+        "product_link": "/aussteller/lead-digitalisierung/N1571264",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "MHP Management",
+        "location": "Ludwigsburg - DE",
+        "description": "Als Technologie- und Businesspartner digitalisiert MHP seit 28 Jahren die Prozesse und Produkte seiner weltweit rund 300 Kunden in den Bereichen Mobility ...",
+        "stand": "Halle 15, Stand D76",
+        "product_link": "/aussteller/mhp-management/N1484740",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "Shoplogix",
+        "location": "Oakville L6L 5W2 - CA",
+        "description": "Shoplogix revolutioniert die Fertigungsindustrie mit seiner Smart Factory-Plattform, die Daten von Maschinen sammelt und anzeigt, wodurch Hersteller ihre ...",
+        "stand": "Halle 17, Stand A44",
+        "product_link": "/aussteller/shoplogix/N1519771",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "Worximity Technology",
+        "location": "Montreal, QC H2Y 2E1 - CA",
+        "description": "Wir von Worximity unterstützen unsere Kunden mit einem menschenzentrierten Ansatz für Industrie 4.0.  Unsere Echtzeit-Produktionsüberwachungslösung in ...",
+        "stand": "Halle 17, Stand A44",
+        "product_link": "/aussteller/worximity-technology/N1568808",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "4D1",
+        "location": "Calgary, AB T3S 0A5 - CA",
+        "description": "Die patentierten millimetergenauen 3D-Indoor-Positionierungssensoren von 4D1 RTLS revolutionieren die industrielle Produktivität, indem sie menschliche ...",
+        "stand": "Halle 17, Stand A44",
+        "product_link": "/aussteller/4d1/N1567658",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "CASE Deutschland",
+        "location": "Braunschweig - DE",
+        "stand": "Halle 16, Stand F11",
+        "product_link": "/aussteller/case-deutschland/N1544812",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "Heisenware",
+        "location": "Hamburg - DE",
+        "description": "Heisenware wurde von Dr. Burkhard Heisen und Gerrit Meyer gegründet, um die Softwareentwicklung in der Industrie radikal zu vereinfachen und ...",
+        "stand": "Halle 17, Stand B35, (6)",
+        "product_link": "/aussteller/heisenware/N1546895",
+        "search_snippet_type": "Aussteller 2025"
+    }
+]

@@ -1,0 +1,911 @@
+[
+    {
+        "company_name": "Monitor ERP System",
+        "location": "Düsseldorf - DE",
+        "description": "... Was machen wir bei Monitor?\n\nWir entwickeln MonitorERP, Schwedens führendes Enterprise-Resource-Planning-System ...",
+        "stand": "Halle 15, Stand A18, (8)",
+        "product_link": "/aussteller/monitor-erp-system/N1569389",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "Sage",
+        "location": "Frankfurt - DE",
+        "description": "...  cloudbasiertenERP-Lösungen, KI-gestützter Effizienz und smarten Automatisierungen für Produktion und Industrie. Sage verbindet ...",
+        "stand": "Halle 15, Stand A18, (1)",
+        "product_link": "/aussteller/sage/N1570355",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "Silent Infotech",
+        "location": "Gandhinagar 382421 - IN",
+        "description": "...  Wir optimieren Prozesse mit maßgeschneidertenERP-Systemen, KI-Automatisierung und skalierbaren IIoT-Plattformen.\n\nWarum Silent ...",
+        "stand": "Halle 15, Stand C02",
+        "product_link": "/aussteller/silent-infotech/N1582472",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "Parsetu",
+        "location": "Filderstadt - DE",
+        "description": "...  Transformation von Fertigungsprozessen. Unsere intelligenten MES- (Manufacturing Execution System),ERP-, CRM- und IIoT-Lösungen ...",
+        "stand": "Halle 2, Stand C56",
+        "product_link": "/aussteller/parsetu/N1582320",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "GENIUS ERP",
+        "location": "Quebec City, QC G2K 0H1 - CA",
+        "description": "...  Übernehmen Sie die vollständige Kontrolle über Ihre Fertigungsprozesse mit GeniusERP. Unsere All-in-One-Lösung deckt alles ab ...",
+        "stand": "Halle 17, Stand A44",
+        "product_link": "/aussteller/genius-erp/N1568794",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "AMM Systems",
+        "location": "Johannesburg - ZA",
+        "description": "AM Squared Systems bietet Echtzeit-Datenmanagementlösungen für die Energie-, Bergbau- und Fertigungsindustrien. Unsere MiX-Plattform integriert ...",
+        "stand": "Halle 16, Stand E11",
+        "product_link": "/aussteller/amm-systems/N1565926",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "Aptean Germany",
+        "location": "Ettlingen - DE",
+        "description": "Aptean ist einer der weltweit führenden Anbieter von branchenspezifischer Software. In der DACH-Region sind die Enterprise-Resource-Planning- und ...",
+        "stand": "Halle 15, Stand A18, (4)",
+        "product_link": "/aussteller/aptean-germany/N1476159",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "Crosser",
+        "location": "Stockholm - SE",
+        "description": "Wir entwerfen und entwickeln eine Low-Code-Software Plattform für Streaming Analytics, Automatisierung und Integration, die in hybriden Architekturen ...",
+        "stand": "Halle 17, Stand H15/1",
+        "product_link": "/aussteller/crosser/N1476208",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "engomo",
+        "location": "Albstadt - DE",
+        "description": "engomo ist die Low-Code-Digitalisierungsplattform für Unternehmen, die komplexe, integrierte und individuelle Prozesse ohne Programmierung in Enterprise ...",
+        "stand": "Halle 15, Stand G48",
+        "product_link": "/aussteller/engomo/N1510428",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "ORBIS",
+        "location": "Saarbrücken - DE",
+        "description": "ORBIS begleitet mittelständische Unternehmen sowie internationale Konzerne bei der Digitalisierung ihrer Geschäftsprozesse. Das tiefe Prozess-Know-how und ...",
+        "stand": "Halle 15, Stand C38",
+        "product_link": "/aussteller/orbis/N1566243",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "Pepperl+Fuchs",
+        "location": "Mannheim - DE",
+        "description": "Pepperl+Fuchs - Innovationen für die Zukunft der Automatisierung\t\nAls eines der führenden Unternehmen der Automatisierungsindustrie gilt Pepperl+Fuchs mit ...",
+        "stand": "Halle 9, Stand D76",
+        "product_link": "/aussteller/pepperl-fuchs/N1476429",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "PSI Software",
+        "location": "Berlin - DE",
+        "description": "Der PSI-Konzern präsentiert sein umfassendes Softwareportfolio für Industrieunternehmen und Versorger. Unter dem Motto „Transform your business with ...",
+        "stand": "Halle 17, Stand G24",
+        "product_link": "/aussteller/psi-software/N1509685",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "SEZ Krompachy",
+        "location": "Krompachy - SK",
+        "description": "SEZ Krompachy a.s. wurde 1948 gegründet und ist seitdem als zuverlässiger Lieferant von Niederspannungs- und Mittelspannungs-Schaltanlagen anerkannt.\n\nDas ...",
+        "stand": "Halle 11, Stand A35",
+        "product_link": "/aussteller/sez-krompachy/N1579919",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "Thinkwise Software",
+        "location": "Apeldoorn - NL",
+        "description": "Thinkwise bietet eine führende Plattform für die KI-gestützte Modernisierung von Anwendungen. Seit 2002 helfen wir Unternehmen, komplexe, veraltete ...",
+        "stand": "Halle 15, Stand F71",
+        "product_link": "/aussteller/thinkwise-software/N1567590",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "Trovarit",
+        "location": "Aachen - DE",
+        "description": "Wir sind Ihr verlässlicher Partner bei der Digitalisierung Ihrer Geschäftsprozesse. Mit umfassender Expertise in der Auswahl, Implementierung und ...",
+        "stand": "Halle 15, Stand C13",
+        "product_link": "/aussteller/trovarit/N1476508",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "TUNISIA",
+        "location": "Tunis - TN",
+        "description": "Die Initiative „Towards Industry 4.0“ wurde 2018 vom tunesischen Ministerium für Industrie, Bergbau und Energie und der GIZ Tunesien im Rahmen seines ...",
+        "stand": "Halle 2, Stand D46",
+        "product_link": "/aussteller/tunisia/N1567712",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "ARXivar",
+        "location": "Lonato del Garda - IT",
+        "description": "... Management. ARXivar lässt sich nahtlos in andere Dienste wieERPintegrieren und ist von jedem Gerät aus zugänglich, wodurch ...",
+        "stand": "Halle 17, Stand B18",
+        "product_link": "/aussteller/arxivar/N1569484",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "ifm electronic",
+        "location": "Essen - DE",
+        "description": "...  ganzheitliche \nLösungen für die Digitalisierung der gesamten Wertschöpfungskette „vom Sensor \nbis insERP“. Heute zählt ...",
+        "stand": "Halle 9, Stand D36",
+        "product_link": "/aussteller/ifm-electronic/N1476341",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "simus systems",
+        "location": "Karlsruhe - DE",
+        "description": "...  unseren innovativen Lösungen setzen wir an der Schnittstelle zwischenERP-, CAD- und PLM-Systemen an und ergänzen ...",
+        "stand": "Halle 17, Stand F39",
+        "product_link": "/aussteller/simus-systems/N1506647",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "Odoo DE",
+        "location": "Berlin - DE",
+        "description": "Odoo ist die leistungsstarke Open-Source-Software, die Unternehmen jeder Größe dabei hilft, Prozesse effizient zu steuern und zu optimieren. Mit über 70 ...",
+        "stand": "Halle 15, Stand C26",
+        "product_link": "/aussteller/odoo-de/N1574198",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "Bechtle",
+        "location": "Neckarsulm - DE",
+        "description": "...  undERP. Unsere Multichannel-Strategie verbindet persönliche Betreuung an über 120 Standorten in 14 europäischen Ländern mit ...",
+        "stand": "Halle 17, Stand E18",
+        "product_link": "/aussteller/bechtle/N1483828",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "Capture",
+        "location": "Roeselare - BE",
+        "description": "...  von Drittanbietern wie PowerBI, NodeRed, MS Fabrik, Databricks,ERP, usw. hinzufügen.\n- Geben Sie Ihren Kunden, Ingenieuren ...",
+        "stand": "Halle 17, Stand H26/1",
+        "product_link": "/aussteller/capture/N1575485",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "Chengdu Reliance Electric",
+        "location": "Chengdu - CN",
+        "description": "...ERP-System können die Produktivität, Produktqualität verbessern und die Lieferzeit sichern ...",
+        "stand": "Halle 13, Stand A73",
+        "product_link": "/aussteller/chengdu-reliance-electric/N1511698",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "Dayou International Trading",
+        "location": "Ningde - CN",
+        "description": "...  Management-Software wieERPeingeführt, um mit dem internationalen Niveau Schritt zu halten.\n\n\n\nWir optimieren und modifizieren ...",
+        "stand": "Halle 6, Stand F51",
+        "product_link": "/aussteller/dayou-international-trading/N1536869",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "Easy Redmine",
+        "location": "London EC1V 2NX - GB",
+        "description": "Pressemitteilung: ...  Ingenieursteam und fokussierte sich auf Aufgabenmanagement, IT-Helpdesk-Integration undERP-Automatisierung. Nach sechs Monaten ...",
+        "stand": "Halle 17, Stand A40",
+        "product_link": "/aussteller/easy-redmine/N1575200",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "FOLON.A Rubber and Plastic Tech.",
+        "location": "Gloucester, ON K1J 8P4 - CA",
+        "description": "...  Wir setzen während des gesamten Geschäftsprozesses auf einERP-System. Die Qualität unserer Produkte entspricht den Standards ...",
+        "stand": "Halle 3, Stand A78",
+        "product_link": "/aussteller/folon-a-rubber-and-plastic-tech-/N1566069",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "GITO Verlag mbH",
+        "location": "Berlin - DE",
+        "description": "...  die Smart Factory undERPzur Verfügung zu stellen. Wir bringen Expertenwissen für die Praxis auf den Punkt, in Print und Online ...",
+        "product_link": "/aussteller/gito-verlag-mbh/N1523537",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "Heisenware",
+        "location": "Hamburg - DE",
+        "description": "...  und Siemens S7 sowie nativen Integrationen in MES- undERP-Systeme wird Datenerfassung zur reinen Konfiguration, die ohne externe ...",
+        "stand": "Halle 17, Stand B35, (6)",
+        "product_link": "/aussteller/heisenware/N1546895",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "IGZ Ingenieurgesellschaft",
+        "location": "Falkenberg - DE",
+        "description": "... : Schnittstellen-/Systemreduktion, perfekteERP-Integration, einfache Shopfloor-Anbindung, durchgängige Prozesse und Rückverfolgung ...",
+        "stand": "Halle 15, Stand D13",
+        "product_link": "/aussteller/igz-ingenieurgesellschaft/N1476344",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "Proalpha Group",
+        "location": "Weilerbach - DE",
+        "description": "...  – aus der Fertigungsindustrie, dem Großhandel und weiteren Branchen – bilden die leistungsstarkenERP-Kern- und -Zusatzlösungen von Proalpha ...",
+        "stand": "Halle 15, Stand A18, (3)",
+        "product_link": "/aussteller/proalpha-group/N1540015",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "QAD Redzone",
+        "location": "Birmingham B15 1TR - GB",
+        "description": "...  Unsere Lösungen umfassenERP, Nachfrage- und Lieferkettenplanung, Lieferantenbeziehungsmanagement, globale Handels ...",
+        "stand": "Halle 8, Stand E07",
+        "product_link": "/aussteller/qad-redzone/N1566275",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "WIBU-SYSTEMS",
+        "location": "Karlsruhe - DE",
+        "description": "...  wieERP-, CRM- und E-Commerce-Plattformen integrieren, was die operative Leistung steigert und die Logistikkosten senkt ...",
+        "stand": "Halle 16, Stand D10",
+        "product_link": "/aussteller/wibu-systems/N1476534",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "21unity",
+        "location": "Dieburg - DE",
+        "description": "...  zusammen, um Ihnen sichere und hochperformante IT / OT Lösungen anzubieten. \nUnsere 21unity Collaboration Cloud sowie unserERP...",
+        "stand": "Halle 16, Stand A12, (20)",
+        "product_link": "/aussteller/21unity/N1580351",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "21unity",
+        "location": "Dieburg - DE",
+        "description": "...  um Ihnen sichere und hochperformante IT / OT Lösungen anzubieten.\n\nUnsere 21unity Collaboration Cloud sowie unserERP21pro ermöglichen ...",
+        "stand": "Halle 16, Stand A12, (19)",
+        "product_link": "/aussteller/21unity/N1545805",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "COSMO CONSULT",
+        "location": "Berlin - DE",
+        "description": "...  und nachhaltigen Mehrwert schaffen.\n\nDafür kombinieren wir moderne Technologien wieERP-, CRM-, DMS- und BI-Systeme sowie KI ...",
+        "stand": "Halle 15, Stand F28",
+        "product_link": "/aussteller/cosmo-consult/N1572946",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "DUALIS IT Solution",
+        "location": "Dresden - DE",
+        "description": "...  des Produktionsökosystems integrieren sie sich nahtlos miteinander und mit externen Systemen wieERP, MES, CAD, CAM und PZE ...",
+        "stand": "Halle 15, Stand F14",
+        "product_link": "/aussteller/dualis-it-solution/N1459042",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "AMBER & Data Science Solutions",
+        "location": "Oberhaching - DE",
+        "description": "Start-ups und Universitäten, die ein breites Spektrum von Branchen bedienen. AMBER bietet eine umfassende Palette an KI-bezogenen Angeboten, die ...",
+        "stand": "Halle 15, Stand F40",
+        "product_link": "/aussteller/amber-data-science-solutions/N1577817",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "Crateflow",
+        "location": "Worms - DE",
+        "description": "Crateflow ist ein KI-Startup, initial gefördert durch die Bundesregierung und die EU sowie unterstützt von Microsoft für innovative KI-Anwendungen. Unsere ...",
+        "stand": "Halle 2, Stand C33",
+        "product_link": "/aussteller/crateflow/N1577884",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "erminas",
+        "location": "Oldenburg - DE",
+        "description": "Bereits 2007 wurde erminas von CEO Hilmar Bunjes und CTO Dr. Yvette Teiken gegründet. erminas unterstützt weltweit Unternehmen auf dem Weg in die lndustrie ...",
+        "stand": "Halle 16, Stand F11",
+        "product_link": "/aussteller/erminas/N1483015",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "Fabbi Research and Development",
+        "location": "Hanoi - VN",
+        "description": "Unternehmensphilosophie\nMensch\nWie das vietnamesische Sprichwort sagt: \"Der weise Mann ist die Weisheit des Landes\", sind die Mitarbeiter der Geist des ...",
+        "stand": "Halle 15, Stand G14",
+        "product_link": "/aussteller/fabbi-research-and-development/N1583754",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "Infor (Deutschland)",
+        "location": "Friedrichsthal - DE",
+        "description": "Nutzen Sie das Potenzial Ihrer Daten - mit Infor. \nInfor ist ein weltweit führender Anbieter von branchenspezifischer Cloud-Software. Wir entwickeln ...",
+        "stand": "Halle 15, Stand D76",
+        "product_link": "/aussteller/infor-deutschland-/N1545574",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "IPH -Institut für Integrierte Produktion",
+        "location": "Hannover - DE",
+        "description": "Das IPH – Institut für Integrierte Produktion Hannover gGmbH betrachtet die Produktion ganzheitlich. Unsere Leitfrage lautet seit der Gründung: Wie können ...",
+        "stand": "Halle 16, Stand F09",
+        "product_link": "/aussteller/iph-institut-fur-integrierte-produktion/N1511939",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "NetApp",
+        "location": "San Jose 95128 - USA",
+        "description": "Unser Ziel ist es, eine Welt der Möglichkeiten für unsere Kunden zu schaffen.\nNur NetApp bietet einen silofreien Ansatz, der Folgendes kombiniert:\n\nUnified ...",
+        "stand": "Halle 15, Stand D76",
+        "product_link": "/aussteller/netapp/N1545845",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "OIXIO",
+        "location": "Tallinn - EE",
+        "description": "OIXIO unterstützt Unternehmen mit intelligenten digitalen Lösungen und sorgt so für Effizienz, Sicherheit und Innovation. Wir vereinfachen die ...",
+        "stand": "Halle 6, Stand E44",
+        "product_link": "/aussteller/oixio/N1575017",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "Uni Potsdam - Potsdam Transfer",
+        "location": "Potsdam - DE",
+        "description": "Die Universität Potsdam versteht sich als unternehmerische Hochschule, die die Anwendung des hier generierten Wissens fördert. Damit will sie ihren ...",
+        "stand": "Halle 2, Stand B16",
+        "product_link": "/aussteller/uni-potsdam-potsdam-transfer/N1572275",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "valantic Supply Chain Excellence",
+        "location": "München - DE",
+        "description": "valantic ist kompetenter Partner für die Optimierung und Digitalisierung von Produktion und Supply Chain, und bietet aus einer Hand Beratung und passgenaue ...",
+        "stand": "Halle 15, Stand F28",
+        "product_link": "/aussteller/valantic-supply-chain-excellence/N1509008",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "Visual Knowledge Share, VKS",
+        "location": "Châteauguay J6J 4Z2 - CA",
+        "description": "VKS bietet seinen Nutzern eine einfach zu nutzende Software, um Prozesse zu standardisieren und zu optimieren. Beginnend mit digitalen Arbeitsanweisungen ...",
+        "stand": "Halle 17, Stand A44",
+        "product_link": "/aussteller/visual-knowledge-share-vks/N1544132",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "WEMOTION",
+        "location": "Leer - DE",
+        "description": "Wir sind wemotion, eine Digitalagentur aus Ostfriesland, die mit Leidenschaft und Innovationsgeist Unternehmen in die digitale Zukunft begleitet. Mit ...",
+        "stand": "Halle 2, Stand D24",
+        "product_link": "/aussteller/wemotion/N1580083",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "Mensch und Maschine Deutschland",
+        "location": "Wessling - DE",
+        "description": "...  Seminare, Akademie, CPQ, Elektrotechnik,ERP-Schnittstelle, eXs, Fabrikplanung, FEM, Fräsen, Fusion 360, Hydraulik, Industrial ...",
+        "stand": "Halle 17, Stand D26",
+        "product_link": "/aussteller/mensch-und-maschine-deutschland/R874320",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "AGILITA Deutschland",
+        "location": "Berlin - DE",
+        "description": "... Wir leben Agilität und Innovation und bringen Ihnen Lösungen mit Leidenschaft und Verantwortung. Unsere Cloud-ERP...",
+        "stand": "Halle 15, Stand C19",
+        "product_link": "/aussteller/agilita-deutschland/N1574987",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "CloEE",
+        "location": "Helsinki - FI",
+        "description": "...  von Fertigungsanlagen, MES- undERP-Systemen zu erzielen. Es reduziert den Energieverbrauch um 30% und Notabschaltungen um 95%, während ...",
+        "stand": "Halle 11, Stand D44",
+        "product_link": "/aussteller/cloee/N1580063",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "Consilio",
+        "location": "Aschheim - DE",
+        "description": "...  und Weiterentwicklung Ihrer Geschäftsstrategien sowie deren Umsetzung mittels SAP Standard Software wie z.B. S/4 Hana, SAPERP, SAP SCM SNC ...",
+        "stand": "Halle 15, Stand C19",
+        "product_link": "/aussteller/consilio/N1574786",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "EPLAN",
+        "location": "Monheim - DE",
+        "description": "...  und individuelleERP- und PLM/PDM-Schnittstellen sichern durchgängige Daten entlang der gesamten Wertschöpfungskette. Mit EPLAN ...",
+        "stand": "Halle 11, Stand E06",
+        "product_link": "/aussteller/eplan/N1481081",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "EPLAN",
+        "location": "Monheim - DE",
+        "description": "...  und individuelleERP- und PLM/PDM-Schnittstellen sichern durchgängige Daten entlang der gesamten Wertschöpfungskette. Mit EPLAN ...",
+        "stand": "Halle 9, Stand D53",
+        "product_link": "/aussteller/eplan/N1582901",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "EPLAN",
+        "location": "Monheim - DE",
+        "description": "...  und individuelleERP- und PLM/PDM-Schnittstellen sichern durchgängige Daten entlang der gesamten Wertschöpfungskette. Mit EPLAN ...",
+        "stand": "Halle 17, Stand G06",
+        "product_link": "/aussteller/eplan/N1579006",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "Gamsoft",
+        "location": "Pohang-si - ROK",
+        "description": "...  undERPfür Smart Factorys.\n\nVor Kurzem haben wir eine Plattform entwickelt, die die Kohlenstoffemissionen ...",
+        "stand": "Halle 8, Stand A26",
+        "product_link": "/aussteller/gamsoft/N1575961",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "Jinan Aotto Technologies",
+        "location": "Jinan - CN",
+        "description": "...ERP-, CRM- und OA-Verwaltungsplattformen wurden vollständig implementiert, um die Qualität der Geräte von Aotto ...",
+        "stand": "Halle 6, Stand E72",
+        "product_link": "/aussteller/jinan-aotto-technologies/N1573553",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "Njk Oil Seal",
+        "location": "Changhua County - TW",
+        "description": "...  ein. Im Jahr 2015 haben wir auch NJK Pro Oil Seal in Taiwan und einERP-Managementsystem eingeführt. Wir sind bis heute ...",
+        "stand": "Halle 5, Stand B48, (14)",
+        "product_link": "/aussteller/njk-oil-seal/N1572377",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "One Software",
+        "location": "Ploiesti - RO",
+        "description": "...  von kundenspezifischen Anwendungen und ein Portfolio von drei Produkten (ONEERP, ONE Retail und ONE Notariat) entwickelt.\n\nZu den wichtigen ...",
+        "stand": "Halle 7, Stand A08",
+        "product_link": "/aussteller/one-software/N1579248",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "Parsec Automation",
+        "location": "Anaheim, CA 92807 - USA",
+        "description": "...  Im Gegensatz zu Wettbewerbern mit fragmentierten Lösungen ist TrakSYS eine einheitliche Plattform, die sich nahtlos inERP-, SCADA ...",
+        "stand": "Halle 17, Stand G06",
+        "product_link": "/aussteller/parsec-automation/N1576848",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "Platinion",
+        "location": "Köln - DE",
+        "description": "...  Consultants komplexe Problemstellungen in Bereichen wie IT-Architektur,ERP, Cyber Security oder Tech Advisory & Delivery ...",
+        "stand": "Halle 15, Stand D60",
+        "product_link": "/aussteller/platinion/N1576849",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "Proalpha",
+        "location": "Weilerbach - DE",
+        "description": "... Die proALPHA Gruppe ist in Deutschland, Österreich, Schweiz der drittgrößte Anbieter fürERPfür mittelständische ...",
+        "stand": "Halle 8, Stand D18",
+        "product_link": "/aussteller/proalpha/N1583621",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "Shoplogix",
+        "location": "Oakville L6L 5W2 - CA",
+        "description": "...  Maschinensteuerung undERP-Systeme. Das Software-Portfolio unterstützt die digitale Implementierung der Lean-Produktion ...",
+        "stand": "Halle 17, Stand A44",
+        "product_link": "/aussteller/shoplogix/N1519771",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "SquareNeo Solutions",
+        "location": "Karlsruhe - DE",
+        "description": "...  dies, indem wir Daten aus verschiedenen Quellen (Datenbanken,ERP-Systeme, CRM-Systeme, ...) mit modernen KI-Technologien („neural ...",
+        "stand": "Halle 15, Stand A06",
+        "product_link": "/aussteller/squareneo-solutions/N1571268",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "Syntax Systems",
+        "location": "Weinheim - DE",
+        "description": "...  bei der Implementierung und dem Management von Multi-ERP-Installationen. Syntax arbeitet eng mit SAP, AWS und Microsoft zusammen ...",
+        "stand": "Halle 15, Stand C19",
+        "product_link": "/aussteller/syntax-systems/N1485826",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "S+P LION",
+        "location": "Ladenburg - DE",
+        "description": "...  Ihrer Produktion, automatisierten Prozessen und einer effizientenERP-Unternehmenssoftware. Mit S+P Lion als mittelständischem ...",
+        "stand": "Halle 15, Stand A06",
+        "product_link": "/aussteller/s-p-lion/N1575664",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "Zhejiang Hongcheng Transmission",
+        "location": "Shaoxing - CN",
+        "description": "... : das operativeERP-Managementsystem ...",
+        "stand": "Halle 4, Stand D04",
+        "product_link": "/aussteller/zhejiang-hongcheng-transmission/N1569782",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "Zhejiang Jingjiu Bearings",
+        "location": "Lishui - CN",
+        "description": "...  der Standards des ISO9001 Qualitätsmanagementsystems, die vollständige Nutzung vonERP-Unternehmensverwaltungssoftware, Unternehmen ...",
+        "stand": "Halle 7, Stand D02",
+        "product_link": "/aussteller/zhejiang-jingjiu-bearings/N1541329",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "ADDITIVE Soft- und Hardware",
+        "location": "Friedrichsdorf - DE",
+        "description": "Seit 35 Jahren ist ADDITIVE ein Systemhaus, das aus Standardprodukten und individuellen Ingenieurdienstleistungen Lösungen für Messtechnik und technische, ...",
+        "stand": "Halle 17, Stand B28",
+        "product_link": "/aussteller/additive-soft-und-hardware/N1536818",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "ASPROVA",
+        "location": "Wetzlar - DE",
+        "description": "Asprova bietet die erfolgreichsten Software-Lösungen für Advanced Production Scheduling und Supply Chain Planning weltweit. Asprova APS und SCP sind die ...",
+        "stand": "Halle 15, Stand D51",
+        "product_link": "/aussteller/asprova/N1503865",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "BDE-Engineering",
+        "location": "Beverungen - DE",
+        "description": "Die BDE Engineering ist ein innovatives Unternehmen im Bereich Fertigungsmanagementsysteme und bietet Lösungen für die digitale und smarte Zukunft der ...",
+        "stand": "Halle 15, Stand A18, (7)",
+        "product_link": "/aussteller/bde-engineering/N1574225",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "BlueSpice MediaWiki",
+        "location": "Regensburg - DE",
+        "description": "Wissen ist unser Auftrag\n\nDie Hallo Welt! GmbH ist das Unternehmen hinter BlueSpice. Wir setzen konsequent auf Open-Source und gehören zu den weltweit ...",
+        "stand": "Halle 17, Stand B22",
+        "product_link": "/aussteller/bluespice-mediawiki/N1569233",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "CONTACT Software",
+        "location": "Bremen - DE",
+        "description": "Nutzen Sie die beste Software für die digitale Transformation Ihrer Produkte\n\nCONTACT ist der führende Anbieter von offener Standardsoftware und Open ...",
+        "stand": "Halle 17, Stand H24",
+        "product_link": "/aussteller/contact-software/N1482432",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "Dassault Systemes Deutschland",
+        "location": "Stuttgart - DE",
+        "description": "Dassault Systèmes, die 3DEXPERIENCE® Company, ist ein Katalysator für den menschlichen Fortschritt. Durch kollaborative und virtuelle Umgebungen ...",
+        "product_link": "/aussteller/dassault-systemes-deutschland/N1476211",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "Dataciders",
+        "location": "Dortmund - DE",
+        "description": "Die Dataciders GmbH ist ein führender Data-&-AI-Dienstleister mit 850 Mitarbeitenden in Deutschland, Österreich und Bulgarien. Unsere Vision: Bessere ...",
+        "stand": "Halle 17, Stand E26",
+        "product_link": "/aussteller/dataciders/N1576644",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "Decisyon",
+        "location": "San Francisco, CA 94103 - USA",
+        "description": "Decisyon ist ein innovatives Softwareunternehmen, das sich der Beschleunigung der digitalen Transformation von Unternehmen verschrieben hat, insbesondere ...",
+        "stand": "Halle 17, Stand B32",
+        "product_link": "/aussteller/decisyon/N1569841",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "INFORM",
+        "location": "Aachen - DE",
+        "description": "INFORM entwickelt Software zur Optimierung von Geschäftsprozessen mittels künstlicher Intelligenz (KI) und fortschrittlicher Mathematik des Operations ...",
+        "stand": "Halle 15, Stand H59",
+        "product_link": "/aussteller/inform/N1476815",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "Inspur Group",
+        "location": "Jinan - CN",
+        "description": "Inspur ist ein führender chinesischer Anbieter von Cloud-Computing- und Big-Data-Diensten. Die Gruppe umfasst drei börsennotierte Unternehmen: Inspur ...",
+        "stand": "Halle 17, Stand F15",
+        "product_link": "/aussteller/inspur-group/N1582255",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "Livesolutions",
+        "location": "Matosinhos - PT",
+        "description": "Live Solutions ist ein führendes Software- und Technologieunternehmen, das auf Field Service Management für den FTTH-Netzaufbau spezialisiert ist. \nUnsere ...",
+        "stand": "Halle 15, Stand A18, (9)",
+        "product_link": "/aussteller/livesolutions/N1573206",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "MeisterLabs",
+        "location": "Vaterstetten - DE",
+        "description": "Wir glauben, dass gute Arbeit nicht zwingend hart sein muss. Deshalb steht Einfachheit im Mittelpunkt unseres Handelns. Unser Ziel ist es, auch nicht ...",
+        "stand": "Halle 14, Stand H46",
+        "product_link": "/aussteller/meisterlabs/N1574246",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "Minitab",
+        "location": "München - DE",
+        "description": "Seit über 50 Jahren hilft Minitab Unternehmen und Institutionen, Trends zu erkennen, Probleme zu lösen und wertvolle Erkenntnisse aus Daten zu gewinnen. ...",
+        "stand": "Halle 15, Stand H53",
+        "product_link": "/aussteller/minitab/N1549225",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "Projektron",
+        "location": "Berlin - DE",
+        "description": "Die Projektron GmbH entwickelt und vertreibt seit 2001 mit derzeit mehr als 100 Mitarbeitern die webbasierte Projektmanagement-Software Projektron BCS. ...",
+        "stand": "Halle 15, Stand B18",
+        "product_link": "/aussteller/projektron/N1507677",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "SABO Mobile IT",
+        "location": "Bühl - DE",
+        "description": "SABO Mobile IT ist ein kompetenter und erfahrener Auftragsentwickler von kundenspezifischen Innovationen zur Digitalisierung der Produktion und Industrie ...",
+        "stand": "Halle 9, Stand F18/8",
+        "product_link": "/aussteller/sabo-mobile-it/N1574727",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "Schneider Electric",
+        "location": "Rueil Malmaison - FR",
+        "description": "Fachleute aus der Industrie treffen bei unseren Innovation Talks, Smart Factory Experiences, Guided Tours auf unsere Experten für Industrieautomatisierung: ...",
+        "stand": "Freigelände, In der 3. Allee, zwischen der Ostwand Halle 11 und dem\nKonrad-Zuse-Par, Stand V125",
+        "product_link": "/aussteller/schneider-electric/N1544704",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "ServiceNow",
+        "location": "München - DE",
+        "description": "Besuchen Sie uns auf der diesjährigen Hannover Messe, wo wir gemeinsam die digitale Fabrik der Zukunft gestalten. ServiceNow unterstützt Hersteller ...",
+        "stand": "Halle 15, Stand D72",
+        "product_link": "/aussteller/servicenow/N1433719",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "Shanghai Xuyu Information",
+        "location": "Shanghai - CN",
+        "description": "Xuyu Information Technology wurde 2004 gegründet und ist heute ein führender Anbieter integrierter IoT-Lösungen in China. Sein grundlegendes Ziel ist es, ...",
+        "stand": "Halle 15, Stand A02",
+        "product_link": "/aussteller/shanghai-xuyu-information/N1573209",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "STIFT",
+        "location": "Erfurt - DE",
+        "description": "Die Stiftung für Technologie, Innovation und Forschung Thüringen (STIFT) fördert seit ihrer Gründung 1993 selbstlos Wissenschaft, Forschung, Technologie ...",
+        "stand": "Halle 2, Stand D28",
+        "product_link": "/aussteller/stift/N1439994",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "TeamViewer Germany",
+        "location": "Göppingen - DE",
+        "description": "Über TeamViewer\n\nAls globales Technologieunternehmen und mit dem Angebot einer führenden Konnektivitätsplattform ermöglicht es TeamViewer, aus der Ferne ...",
+        "stand": "Halle 14, Stand H70",
+        "product_link": "/aussteller/teamviewer-germany/N1546981",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "TechnoGIS",
+        "location": "Sleman - ID",
+        "description": "Techno GIS Indonesia ist ein Geospatial-Unternehmen, das bahnbrechende Innovationen in der Produktentwicklung in verschiedenen Vermessungsbereichen ...",
+        "stand": "Halle 2, Stand D36/6",
+        "product_link": "/aussteller/technogis/N1549090",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "ZVEI e. V.",
+        "location": "Frankfurt - DE",
+        "description": "ZVEI: Der Verband der Elektro- und Digitalindustrie\n\nDer ZVEI vertritt die gemeinsamen Interessen der Elektro- und Digitalindustrie und der zugehörigen ...",
+        "stand": "Halle 11, Stand B54",
+        "product_link": "/aussteller/zvei-e-v-/N1540027",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "Rootstock Software",
+        "location": "San Ramon, CA 94583 - USA",
+        "description": "... Rootstock Software develops and implements cloud Enterprise Resource Planning (ERP) software that helps companies ...",
+        "stand": "Halle 15, Stand B04",
+        "product_link": "/aussteller/rootstock-software/N1574319",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "Bundesamt für Sicherheit BSI",
+        "location": "Bonn - DE",
+        "description": "Das Bundesamt für Sicherheit in der Informationstechnik (BSI) wurde am 01.01.1991 gegründet und gehört zum Geschäftsbereich des Bundesministeriums des ...",
+        "stand": "Halle 16, Stand A12, (30)",
+        "product_link": "/aussteller/bundesamt-fur-sicherheit-bsi/N1567580",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "Projektron",
+        "location": "Berlin - DE",
+        "description": "Die Projektron GmbH entwickelt und vertreibt seit 2001 mit derzeit mehr als 100 Mitarbeitern die webbasierte Projektmanagement-Software Projektron BCS. ...",
+        "stand": "Halle 13, Stand C55",
+        "product_link": "/aussteller/projektron/N1507610",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "AVEVA",
+        "location": "Frankfurt - DE",
+        "description": "AVEVA ist ein weltweit führendes Unternehmen für Industriesoftware und entfacht den Einfallsreichtum, um den verantwortungsvollen Umgang mit den Ressourcen ...",
+        "stand": "Halle 11, Stand C52",
+        "product_link": "/aussteller/aveva/N1526345",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "AVEVA",
+        "location": "Cambridge CB3 0HB - GB",
+        "description": "AVEVA ist ein weltweit führendes Unternehmen für Industriesoftware und entfacht den Einfallsreichtum, um den verantwortungsvollen Umgang mit den Ressourcen ...",
+        "stand": "Halle 17, Stand G06",
+        "product_link": "/aussteller/aveva/N1584610",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "AVEVA",
+        "location": "Cambridge CB3 0HB - GB",
+        "description": "AVEVA ist ein weltweit führendes Unternehmen für Industriesoftware und entfacht den Einfallsreichtum, um den verantwortungsvollen Umgang mit den Ressourcen ...",
+        "stand": "Halle 15, Stand D76",
+        "product_link": "/aussteller/aveva/N1549574",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "Box Deutschland",
+        "location": "München - DE",
+        "description": "Box ist die Intelligente Content Cloud: die Plattform für interne und externe Zusammenarbeit, integriert in andere Systeme (wie Salesforce oder MS Teams), ...",
+        "stand": "Halle 15, Stand F28",
+        "product_link": "/aussteller/box-deutschland/N1574180",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "Cognite",
+        "location": "Lysaker - NO",
+        "description": "Cognite is a global industrial SaaS company that was established with one clear vision: to rapidly empower industrial companies with contextualized, ...",
+        "stand": "Halle 17, Stand G06",
+        "product_link": "/aussteller/cognite/N1483662",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "Cognite",
+        "location": "Lysaker - NO",
+        "description": "Cognite is a global industrial SaaS company that was established with one clear vision: to rapidly empower industrial companies with contextualized, ...",
+        "stand": "Halle 15, Stand D76",
+        "product_link": "/aussteller/cognite/N1548298",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "envyze",
+        "location": "Hannover - DE",
+        "description": "Wir navigieren Sie durch Ihre komplexen, nachhaltigen Energieprojekte! \n\nenvyze, eine Ausgründung des Teams „Nachhaltige Energielösungen“ der Cratos GmbH, ...",
+        "stand": "Halle 13, Stand C61",
+        "product_link": "/aussteller/envyze/N1571110",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "FENTEC",
+        "location": "Tampere - FI",
+        "description": "FENTEC ist ein Pionier für Ausgabeautomaten der nächsten Generation. Wir helfen Dienstleistern, Wettbewerbsvorteile zu erzielen, indem wir den Umsatz ...",
+        "stand": "Halle 11, Stand D44",
+        "product_link": "/aussteller/fentec/N1580215",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "Industrie Informatik",
+        "location": "Linz - AT",
+        "description": "Industrie Informatik GmbH zählt zu einen der führenden Anbieter im Bereich Produktionssoftware MES (Manufacturing Execution Systems). Mit mehr als 130 ...",
+        "stand": "Halle 15, Stand F28",
+        "product_link": "/aussteller/industrie-informatik/N1477347",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "Knoll Maschinenbau",
+        "location": "Bad Saulgau - DE",
+        "description": "Die KNOLL Maschinenbau GmbH ist nicht nur Spezialist fürs Fördern, Filtern und Pumpen – die Automatisierung ist ein weiteres Geschäftsfeld, in dem das ...",
+        "stand": "Halle 15, Stand A06",
+        "product_link": "/aussteller/knoll-maschinenbau/N1571199",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "Labs Network Industrie 4.0",
+        "location": "Berlin - DE",
+        "description": "Katalysator zwischen Theorie und Praxis für Industrie 4.0 und KMU\n\nÜber uns:\nUnser Verein wurde von Unternehmen der Plattform Industrie 4.0 zusammen mit ...",
+        "stand": "Halle 8, Stand D26",
+        "product_link": "/aussteller/labs-network-industrie-4-0/X505313",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "LEAD Digitalisierung",
+        "location": "Winterbach - DE",
+        "description": "Die LEAD Digitalisierung bietet schlüsselfertige Softwarelösungen, die Produktionen und Maschinenbauer bei der digitalen Transformation unterstützen. Mit ...",
+        "stand": "Halle 15, Stand A06",
+        "product_link": "/aussteller/lead-digitalisierung/N1571264",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "Localino",
+        "location": "Lennestadt - DE",
+        "description": "#WEKEEPYOUONTRACK\n\nMit diesem Motto begleiten wir unsere Kunden als ganzheitlicher Lösungsanbieter für die Indoor und Outdoorlokalisierung , ob Ortung oder ...",
+        "stand": "Halle 7, Stand A28",
+        "product_link": "/aussteller/localino/N1512585",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "objective partner",
+        "location": "Weinheim - DE",
+        "description": "objective partner ist seit fast 30 Jahren erfolgreich als IT- und Strategieberatung tätig. Das Unternehmen deckt mit seinen Lösungen alle Prozesse und ...",
+        "stand": "Halle 9, Stand F27",
+        "product_link": "/aussteller/objective-partner/N1546660",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "Resilient Entanglement",
+        "location": "Denver, CO 80206-5589 - USA",
+        "description": "Resilient Entanglement (RE) wurde gegründet, um dem wachsenden Bedarf an einem schnelleren, datengesteuerten Energienetz gerecht zu werden, das den immer ...",
+        "stand": "Halle 13, Stand B21",
+        "product_link": "/aussteller/resilient-entanglement/N1575481",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "SDZ SIMULATIONSDIENSTLEISTUNGSZENTRUM",
+        "location": "Dortmund - DE",
+        "description": "SDZ GmbH - Ihr Partner für eine moderne Produktion!\nWir sind Experten für die professionelle Gestaltung moderner Produktionssysteme für die industrielle ...",
+        "stand": "Halle 7, Stand A28",
+        "product_link": "/aussteller/sdz-simulationsdienstleistungszentrum/N1543717",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "Softexpert",
+        "location": "Joinville - BR",
+        "description": "SoftExpert bietet dem Markt eine komplette Plattform für die digitale Transformation. Unsere zahlreichen integrierten Lösungen sind wie Teile eines ...",
+        "stand": "Halle 17, Stand D17/1",
+        "product_link": "/aussteller/softexpert/N1582029",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "TVINN Digital Supply Chains",
+        "location": "Berlin - DE",
+        "description": "Wir sind ein junges innovatives Softwareunternehmen, spezialisiert auf moderne Produktionsplanungs- und Steuerungssoftware (PPS). Unser Ziel: ...",
+        "stand": "Halle 2, Stand B16",
+        "product_link": "/aussteller/tvinn-digital-supply-chains/N1572274",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "Unity Technologies",
+        "location": "San Francisco, CA 94103 - USA",
+        "description": "Wir glauben, dass mehr kreative Entwickler die Welt zu einem besseren Ort machen. Dies ist die Kernidee unseres Unternehmens, denn wir sind der Meinung, ...",
+        "stand": "Halle 17, Stand D15",
+        "product_link": "/aussteller/unity-technologies/N1580689",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "GE Vernova",
+        "location": "Mönchengladbach - DE",
+        "stand": "Halle 15, Stand D76",
+        "product_link": "/aussteller/ge-vernova/N1580216",
+        "search_snippet_type": "Aussteller 2025"
+    },
+    {
+        "company_name": "IFE",
+        "location": "Hannover - DE",
+        "description": "Seit 2011 sind wir Odoo Gold Partner und haben uns als Consultingexperten etabliert. Unser Team bringt umfassende Praxiserfahrung in verschiedenen ...",
+        "stand": "Halle 15, Stand C26",
+        "product_link": "/aussteller/ife/N1575963",
+        "search_snippet_type": "Aussteller 2025"
+    }
+]
